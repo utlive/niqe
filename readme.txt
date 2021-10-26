@@ -124,4 +124,3 @@ sh_th        = 0.75;
 
 [mu_prisparam cov_prisparam]  = estimatemodelparam(folderpath,blocksizerow,blocksizecol,blockrowoverlap,blockcoloverlap,sh_th)
 =======================================================================
- 
