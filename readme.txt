@@ -115,13 +115,12 @@ blocksizerow = 96;
 Width of the block
 blocksizecol = 96;
 Verical overlap between blocks
-blocksizerow = 0;
+blockrowoverlap = 0;
 Horizontal overlap between blocks
-blocksizecol = 0;
+blockcoloverlap = 0;
 The sharpness threshold level
 sh_th        = 0.75;
 
 
 [mu_prisparam cov_prisparam]  = estimatemodelparam(folderpath,blocksizerow,blocksizecol,blockrowoverlap,blockcoloverlap,sh_th)
 =======================================================================
- 
