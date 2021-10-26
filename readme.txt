@@ -117,7 +117,7 @@ blocksizecol = 96;
 Verical overlap between blocks
 blockrowoverlap = 0;
 Horizontal overlap between blocks
-blockcoleoverlap = 0;
+blockcoloverlap = 0;
 The sharpness threshold level
 sh_th        = 0.75;
 
